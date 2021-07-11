@@ -1,1 +1,0 @@
-# MittCV_WP
