@@ -1,1 +1,1 @@
-##WP ASTRA Theme ##
+**WP ASTRA Theme**
